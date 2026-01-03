@@ -1,5 +1,0 @@
-{
-  "routes": [
-    { "src": "/(.*)", "dest": "Curso_Html/index.html" }
-  ]
-}
